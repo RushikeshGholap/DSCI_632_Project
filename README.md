@@ -17,5 +17,4 @@ Several hypotheses are tested during the analysis, including:
 ## Results
 The project evaluates the performance of different machine learning models in predicting diabetes risk and provides insights into the association between predictor variables and diabetes status. Performance metrics such as accuracy and F1 score are used to assess model performance.
 
-## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+
